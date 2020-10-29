@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-routing-app"
+    }
+  },
+  "defaultProject": "angular-routing-app",
+  "cli": {
+    "analytics": false
+  }
 }
